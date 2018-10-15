@@ -1,0 +1,19 @@
+Dataset
+    http://download.tensorflow.org/example_images/flower_photos.tgz
+
+Passing
+    Basic of ML for images
+        classification, localization, segmentation
+        Conceptually - Classification
+            Softmax
+    Convolution
+        Basic concept + Math - High lvl
+        Inception v3
+    Data
+        Flowers dataset
+        Train/validation
+        Data augmentation
+    Model
+        Keras
+
+    Ressources for all 3 tasks
